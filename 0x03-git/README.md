@@ -4,4 +4,4 @@
 4. alx			bash file
 5. main.js		js file
 index.js		js file
-
+updated_script  text/plain
